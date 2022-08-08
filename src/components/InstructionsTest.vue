@@ -20,8 +20,6 @@
                 </v-card-title>
 
                 <v-card-text>
-
-
                     <p>
                         Nous utilisons Vuejs 2.6 comme frameWork Js et Vuetify comme framwork Css.<br />
                         VueJs et Vuetify sont déja installer.<br />

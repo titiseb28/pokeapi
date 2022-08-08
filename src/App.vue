@@ -2,7 +2,6 @@
   <v-app>
     <v-main>
       <v-container fluid>
-
         <InstructionsTest />
       </v-container>
     </v-main>
