@@ -49,7 +49,7 @@
             <v-list-item-content>
               <v-list-item-title>
                 <v-icon small color="black" class="mr-2">mdi-circle</v-icon
-                >Pouvoir en affichait 5 - 10 - 15 - 20 par page
+                >Pouvoir en affichait 5 - 10 - 15 - 20 par page ( pagination )
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
